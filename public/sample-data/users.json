@@ -1,0 +1,25 @@
+[
+  {
+    "id": "USR-OWNER",
+    "email": "owner@mandeep.com",
+    "password": "CHANGE_THIS_STARTER_PASSWORD",
+    "firstName": "Mandeep",
+    "lastName": "Owner",
+    "role": "owner",
+    "active": true
+  },
+  {
+    "id": "USR-EMPLOYEE",
+    "email": "employee@example.com",
+    "password": "SET_A_PASSWORD",
+    "firstName": "Sample",
+    "lastName": "Employee",
+    "role": "employee",
+    "active": true,
+    "permissions": [
+      "dashboard",
+      "bookings",
+      "trips"
+    ]
+  }
+]

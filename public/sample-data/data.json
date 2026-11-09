@@ -1,0 +1,26 @@
+{
+  "trucks": [],
+  "drivers": [],
+  "truckOwners": [],
+  "customers": [],
+  "bookings": [],
+  "trips": [],
+  "maintenance": [],
+  "fuel": [],
+  "expenses": [],
+  "invoices": [],
+  "payments": [],
+  "employees": [],
+  "tasks": [],
+  "attendance": [],
+  "salaries": [],
+  "documents": [],
+  "notifications": [],
+  "activity": [],
+  "settings": {
+    "companyName": "Mandeep RoadWays",
+    "gstin": "",
+    "address": "",
+    "invoicePrefix": "MRW"
+  }
+}
