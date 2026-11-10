@@ -1,25 +1,11 @@
 [
   {
-    "id": "USR-OWNER",
-    "email": "owner@mandeep.com",
-    "password": "CHANGE_THIS_STARTER_PASSWORD",
+    "id": "Mandeep",
+    "email": "mandeeproadways@gmail.com",
+    "password": "a1a2@a3a4",
     "firstName": "Mandeep",
-    "lastName": "Owner",
+    "lastName": "Tiwary",
     "role": "owner",
     "active": true
-  },
-  {
-    "id": "USR-EMPLOYEE",
-    "email": "employee@example.com",
-    "password": "SET_A_PASSWORD",
-    "firstName": "Sample",
-    "lastName": "Employee",
-    "role": "employee",
-    "active": true,
-    "permissions": [
-      "dashboard",
-      "bookings",
-      "trips"
-    ]
   }
 ]
